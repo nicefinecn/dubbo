@@ -27,6 +27,7 @@ import java.util.concurrent.CompletableFuture;
 
 public class Application {
     /**
+     * nice_fine_test_commit
      * In order to make sure multicast registry works, need to specify '-Djava.net.preferIPv4Stack=true' before
      * launch the application
      */
